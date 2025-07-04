@@ -1,0 +1,20 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if you ever use npm)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Mac and Windows system folders
+__MACOSX/
+desktop.ini
